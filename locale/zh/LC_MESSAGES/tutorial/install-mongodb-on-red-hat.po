@@ -270,7 +270,7 @@ msgstr ""
 
 # 517c29e67d33412fa83d5bb8a0564a8b
 #: ../source/tutorial/install-mongodb-on-red-hat.txt:71
-msgid "Uninstall MongoDB Community Edition"
+msgid "Uninstall MongoDB Community Edition" 
 msgstr ""
 
 # bb53614bcf4b43e39cf2ec528dc34657
